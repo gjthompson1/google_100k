@@ -1,8 +1,10 @@
 # Overview
 
-The file is taken from http://norvig.com/ngrams/, which is just the cleaned version of 1-gram data set http://norvig.com/ngrams/count_1w100k.txt
+The file is taken from http://norvig.com/ngrams/
 
-If anyone has a more recent version please let me know. Stuff like "instagram" doesn't appear in this data set.
+Which is just the cleaned version of the 1-gram data set http://norvig.com/ngrams/count_1w100k.txt
+
+If anyone has a more recent version please let me know. Stuff like "instagram" doesn't appear in this data set. But stuff like 'microsoft' does.
 
 ## Download
 
