@@ -14,7 +14,7 @@ If anyone has a more recent version please let me know. Stuff like "instagram" d
 
 Obviously there are many but I personally use it to augment spell checking using http://pythonhosted.org/pyenchant/
 
-    pip install enchant
+    pip install pyenchant
 
 Then spell checking.
 
